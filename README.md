@@ -1,5 +1,21 @@
 # React + Vite
 
+# Dashboard
+numero de carabana -
+sexo - 
+grafico de torta
+cantidad -
+cantidad de hijos -
+registro e historial de hembras
+cant de cabras produciendo
+enfermedades (semaforo)
+litros en total y por cabra
+
+# Landing
+
+fotos
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
